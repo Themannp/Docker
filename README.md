@@ -12,8 +12,8 @@ Think of a container as a bundle that includes your application, the libraries i
 
 Both containers and virtual machines (VMs) isolate applications and their dependencies, but they differ in key ways:
 **Resource Utilization:**
-    Containers: Share the host OS kernel, making them lightweight and efficient.
-    VMs: Include a full OS and hypervisor, requiring more resources.
+    1.Containers: Share the host OS kernel, making them lightweight and efficient.  
+    2.VMs: Include a full OS and hypervisor, requiring more resources.
 
 **Portability:**
     Containers: Easily portable across different environments with a compatible OS.
